@@ -1,12 +1,13 @@
 {
     "Header": {
 
-        "title": "We are a Landing Page",
-        "paragraph": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sed commodo nibh ante facilisis bibendum."
+        "title": "Toko Online Gratis Dalam 12 Detik",
+        "paragraph": "Buat toko onlinemu di Setoko gratis dan mulai berjualan di internet!",
+        "img":"img/header.png"
 
     },
     "About": {
-        "paragraph": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
+        "paragraph": "Dengan lebih dari 64 juta pelaku usaha, UKM dan UMKM adalah jantung perekonomian negara Indonesia. Sayangnya sebagian besar pelaku UKM dan UMKM masih merasakan kesulitan untuk bersaing dengan pelaku usaha besar dan korporasi. PT Sekitar Teknologi Indonesia hadir untuk mendorong kemajuan UKM dan UMKM di Indonesia di era industri 4.0. Kami memiliki visi untuk mengangkat perekonomian Indonesia dan meningkatkan kesejahteraan rakyat banyak melalui UKM dan UMKM.",
         "Why": [
             "Lorem ipsum dolor",
             "Tempor incididunt",
@@ -22,36 +23,19 @@
     },
     "Services": [{
             "icon": "fa fa-wordpress",
-            "name": "Lorem ipsum dolor",
-            "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at."
+            "name": "Usaha apa saja boleh pakai Setoko?",
+            "text": "Setoko dapat dipakai untuk segala jenis usaha yang menjual barang dan jasa."
         },
         {
             "icon": "fa fa-cart-arrow-down",
-            "name": "Consectetur adipiscing",
-            "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at."
+            "name": "Apakah dikenakan biaya?",
+            "text": "Membuat toko online di Setoko tidak dikenakan biaya sama sekali."
         },
         {
             "icon": "fa fa-cloud-download",
-            "name": "Lorem ipsum dolor",
-            "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at."
-        },
-        {
-            "icon": "fa fa-language",
-            "name": "Consectetur adipiscing",
-            "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at."
-        },
-        {
-            "icon": "fa fa-plane",
-            "name": "Lorem ipsum dolor",
-            "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at."
-        },
-        {
-            "icon": "fa fa-pie-chart",
-            "name": "Consectetur adipiscing",
-            "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at."
+            "name": "Bagaimana cara mengirimkan barangnya?",
+            "text": "Barang dapat dikirimkan langsung oleh penjual atau undang pelanggan ke tokomu dengan menunjukkan lokasi tokomu."
         }
-
-
     ],
     "Testimonials": [{
             "img": "img/testimonials/01.jpg",
@@ -105,32 +89,34 @@
         }
     ],
     "Contact": {
+        "year": "2021",
+        "company": "PT Sekitar Teknologi Indonesia",
+        "info": "Dengan lebih dari 64 juta pelaku usaha, UKM dan UMKM adalah jantung perekonomian negara Indonesia. Sayangnya sebagian besar pelaku UKM dan UMKM masih merasakan kesulitan untuk bersaing dengan pelaku usaha besar dan korporasi. PT Sekitar Teknologi Indonesia hadir untuk mendorong kemajuan UKM dan UMKM di Indonesia di era industri 4.0. Kami memiliki visi untuk mengangkat perekonomian Indonesia dan meningkatkan kesejahteraan rakyat banyak melalui UKM dan UMKM.", 
         "address": "4321 California St, San Francisco, CA 12345 ",
         "phone": "+1 123 456 1234",
         "email": "info@company.com",
-        "facebook": "fb.com",
-        "twitter": "twitter.com",
-        "youtube": "youtube.com"
+        "facebook": "https://www.facebook.com/setoko.co",
+        "twitter": "https://twitter.com/setoko_id",
+        "youtube": "youtube.com",
+        "instagram": "https://instagram.com/setoko_id"
     },
     "Features": [{
             "icon": "fa fa-comments-o",
-            "title": "Lorem ipsum",
-            "text": "Lorem ipsum dolor sit amet placerat facilisis felis mi in tempus eleifend pellentesque natoque etiam."
+            "img": "img/steps/signup.png",
+            "title": "Siapkan Toko Onlinemu",
+            "text": "Atur nama, detail dan tautan tokomu."
         },
         {
             "icon": "fa fa-bullhorn",
-            "title": "Lorem ipsum",
-            "text": "Lorem ipsum dolor sit amet placerat facilisis felis mi in tempus eleifend pellentesque natoque etiam."
+            "img": "img/steps/manage.png",
+            "title": "Siapkan Daganganmu",
+            "text": "Tambah, hapus atau edit keterangan dan harga produkmu dengan mudah."
         },
         {
             "icon": "fa fa-group",
-            "title": "Lorem ipsum",
-            "text": "Lorem ipsum dolor sit amet placerat facilisis felis mi in tempus eleifend pellentesque natoque etiam."
-        },
-        {
-            "icon": "fa fa-magic",
-            "title": "Lorem ipsum",
-            "text": "Lorem ipsum dolor sit amet placerat facilisis felis mi in tempus eleifend pellentesque natoque etiam."
+            "img": "img/steps/sell.png",
+            "title": "Mulai Berjualan",
+            "text": "Bagikan website, produk dan lokasi tokomu di media sosial. Jawab pertanyaan pelanggan dan terima order langsung dari WA."
         }
     ]
 }
